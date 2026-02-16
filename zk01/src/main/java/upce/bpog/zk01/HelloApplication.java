@@ -29,7 +29,7 @@ public class HelloApplication extends Application {
 
         StackPane stackPane = new StackPane(label);
 
-        var scene = new Scene(stackPane, 600, 400);
+        Scene scene = new Scene(stackPane, 600, 400);
 
         primaryStage.setTitle("BPOG1 - Základ JavaFX aplikace");
         primaryStage.setScene(scene);
