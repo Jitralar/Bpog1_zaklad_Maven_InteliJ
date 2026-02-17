@@ -26,7 +26,10 @@ Oproti „officiální“ šabloně obsahuje navíc
 > Pozor! Samotný projekt je v InteliJ IDEA již spustitelný, aby fungoval i v IDE NetBeans, je potřeba ještě pár kroků
 
 7. Nyní klikněte na `File` - je to v toolbaru vedle ikony InteliJ a vyhledejte `Project Structure`
-8. V Platforms //FIXME
+8. V `Platform setting` klikňete na `Modules` a zde v `Dependecies` klikněte na tlačítko `+`
+9. Jakmile kliknete na tlačítko `+`, vyberte možnost `JARs or Directories` a vyberte vaše ![SDK s JavaFX](https://gluonhq.com/products/javafx/) (případně již staženo na disku U), ideálně v .ZIP
+10. Nezapomeňte po kroku 9 kliknout na přidanou knihovnu a kliknout `apply` a následně `OK`
+11. Run //TODO
 
 
 TODO
