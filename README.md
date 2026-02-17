@@ -67,4 +67,4 @@ Pokud tuto šablonu budete zkoušet, prosím rožšiřte tuto tabulku o funční
 
 
 
-WIP
+
