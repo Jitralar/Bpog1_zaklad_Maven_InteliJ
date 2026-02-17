@@ -10,7 +10,25 @@ Tato šablona vychází z několika tutoriálů a šablony pro JavaFX od InteliJ
 Oproti „officiální“ šabloně obsahuje navíc
  - javaFX_Run.xml -> scrip pro zapnutí JavaFX na platformě InteliJ
  - nbactions.xml -> script pro zapnutí JavaFX na platformě NetBeans
- - 
+ - šablona JavaFX bez FXML
+ - šablona JavaFX aplikace s FXML
+ - FXML controler pro šablonu s FXML v \resources
+
+## Jak tuto šablonu vytvořit
+
+TODO
+
+
+
+## Ověřena funkčnost mezi InteliJ a NetBeans
+Pokud tuto šablonu budete zkoušet, prosím rožšiřte tuto tabulku o funční verze (pokud zde již nejsou)
+| InteliJ     | NetBeans    | Funguje?    |
+| ----------- | ----------- | ----------- |
+| 2024.3      | 27          | ✔️          |
+| 2024.3      | 12.6        | ✖️          |
+
+
+
 
 
 
