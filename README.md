@@ -16,16 +16,16 @@ Oproti „officiální“ šabloně obsahuje navíc
 
 ## Jak tuto šablonu vytvořit
 
- 1. V InteliJ Idea vyberte "New Project"
- 2. V nabídce na levé straně pod "Genearators" najděte "JavaFX"
- 3. Zadejte své jméno, umístění etc. a po té klikněte na "Next"
+ 1. V InteliJ Idea vyberte `New Project`
+ 2. V nabídce na levé straně pod `Genearators` najděte `JavaFX`
+ 3. Zadejte své jméno, umístění etc. a po té klikněte na `Next`
  4. Máte nyní možnost doinstalovat další knihovny, pro zkoušku a projekty v rámci KST/BPOG1 však nejsou potřeba.
- 5. Ať vyberete či ne knihovny v bodě 4, klikněte na generate
+ 5. Ať vyberete či ne knihovny v bodě 4, klikněte na `generate`
  6. V pravo dole by měl být popup, který vás vyzívá na načtení maven. Odklikněte ho a načtěte ho.
 > [!WARNING]  
 > Pozor! Samotný projekt je v InteliJ IDEA již spustitelný, aby fungoval i v IDE NetBeans, je potřeba ještě pár kroků
 
-7. Nyní klikněte na "File" - je to v toolbaru vedle ikony InteliJ a vyhledejte "Project Structure"
+7. Nyní klikněte na `File` - je to v toolbaru vedle ikony InteliJ a vyhledejte `Project Structure`
 8. V Platforms //FIXME
 
 
