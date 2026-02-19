@@ -61,6 +61,7 @@ Pokud tuto šablonu budete zkoušet, prosím rožšiřte tuto tabulku o funční
 | ----------- | ----------- | ----------- |
 | 2024.3      | 27          | ✔️          |
 | 2024.3      | 12.6        | ✖️          |
+| 2024.3      | 8.2         | ✖️          |
 
 
 
