@@ -1,5 +1,5 @@
 # Bpog1_zaklad_Maven_InteliJ
-Zakladní šablona pro předmět ![Bpog1](https://portal.upce.cz/StagPortletsJSR168/CleanUrl?urlid=prohlizeni-predmet-sylabus&predmetZkrPrac=KST&predmetZkrPred=BPOG1&predmetRok=2025), určený pro Fakultu Elektrotechniky a Informatiky Univerzity Pardubice. Připraveno pro vývoj v Maven na platformě InteliJ, funkční pro testování v NetBeans
+Zakladní šablona pro předmět [Bpog1](https://portal.upce.cz/StagPortletsJSR168/CleanUrl?urlid=prohlizeni-predmet-sylabus&predmetZkrPrac=KST&predmetZkrPred=BPOG1&predmetRok=2025), určený pro Fakultu Elektrotechniky a Informatiky Univerzity Pardubice. Připraveno pro vývoj v Maven na platformě InteliJ, funkční pro testování v NetBeans
 
 > [!WARNING]  
 > Aktuálně není tato šablona schválena Ing. Petrem Veselým na zkouškách v LS 2026. Jakmile bude dostupné vyjádření, bude tento Readme upraven
