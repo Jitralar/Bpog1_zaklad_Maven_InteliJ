@@ -79,6 +79,7 @@ Ještě plánuji nějaké testování, nicméně zde jsou některé notes co jse
           xmlns:fx="http://javafx.com/fxml/1"
           fx:controller="upce.st67053.knihy2026.HelloController">
    ```
+   je potřeba ji dodat (chybí `fx:controller="etc"`)
  - Je lepší používat `Gluon Scene Builder`, protože JavaFX Scene Builder 2.0 od Oracle neobsahuje některé komponenty, jako například spinner (textBox s počítadlem). V InteliJ se nastavuje úplně stejně - jen se dá jiná cesta k .exe souboru (po prvé stačí přes levé tlačítko kliknout `open with SceneBuilder` a zde vás InteliJ vyzve k vyplnění cesty k .exe souboru. Pokud jste již vyplnili - tak v nastavení pod `Languages & Frameworks > JavaFX` lze cesta změnit (stačí vyhledat SceneBuilder a zde by na to měl být textBox)
  
 
