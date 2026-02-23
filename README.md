@@ -17,7 +17,7 @@ Oproti „officiální“ šabloně obsahuje navíc
  - šablona JavaFX aplikace s FXML*
  - FXML controler pro šablonu s FXML v \resources*
 
-   *_prosím přečtěte kapitolu o [FXML](https://github.com/Jitralar/Bpog1_zaklad_Maven_InteliJ/edit/main/README.md#pr%C3%A1ce-s-fxml)_
+   *_prosím přečtěte kapitolu o [FXML](https://github.com/Jitralar/Bpog1_zaklad_Maven_InteliJ?tab=readme-ov-file#pr%C3%A1ce-s-fxml)_
 
 ## Jak tuto šablonu vytvořit
 
