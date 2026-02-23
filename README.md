@@ -32,7 +32,7 @@ Oproti „officiální“ šabloně obsahuje navíc
 
 7. Nyní klikněte na `File` - je to v toolbaru vedle ikony InteliJ a vyhledejte `Project Structure`
 8. V `Platform setting` klikňete na `Modules` a zde v `Dependecies` klikněte na tlačítko `+`
-9. Jakmile kliknete na tlačítko `+`, vyberte možnost `JARs or Directories` a vyberte vaše ![SDK s JavaFX](https://gluonhq.com/products/javafx/) (případně již staženo na disku U), ideálně v .ZIP
+9. Jakmile kliknete na tlačítko `+`, vyberte možnost `JARs or Directories` a vyberte vaše [SDK s JavaFX](https://gluonhq.com/products/javafx/) (případně již staženo na disku U), ideálně v .ZIP
 10. Nezapomeňte po kroku 9 kliknout na přidanou knihovnu a kliknout `apply` a následně `OK`
 11. Nyní na opět na toolbaru najdeme kategorii `Run` a zde vybereme možnost `Edit Configucations`
 12. V tomto menu klikneme na `Add new`, případně na `+` a vybereme `Maven`
