@@ -37,6 +37,7 @@ Oproti „officiální“ šabloně obsahuje navíc
 11. Nyní na opět na toolbaru najdeme kategorii `Run` a zde vybereme možnost `Edit Configucations`
 12. V tomto menu klikneme na `Add new`, případně na `+` a vybereme `Maven`
 13. V možnostech nyní je důležité odkliknout `Store as project file` vedle názvu konfigurace a do kolonky `Run` napsat tento příkaz `javafx:run` a zakliknout Aplly a Run
+_pro cestu vyberte váši nejvyšší úroveň v Projektu, třaba jako zde zk01_
 14. Poslední krok je vytvořit podobnou konfiguraci i pro NetBeans. Proto je potřeba vytvořit file `nbactions.xml` v hlavní větvy programu (na stejné úrovni jako například pom.xml a složka src) a vložit do něj následující xml kód
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
