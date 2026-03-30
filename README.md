@@ -1,8 +1,10 @@
 # Bpog1_zaklad_Maven_InteliJ
-Zakladní šablona pro předmět [Bpog1](https://portal.upce.cz/StagPortletsJSR168/CleanUrl?urlid=prohlizeni-predmet-sylabus&predmetZkrPrac=KST&predmetZkrPred=BPOG1&predmetRok=2025), určený pro Fakultu Elektrotechniky a Informatiky Univerzity Pardubice. Připraveno pro vývoj v Maven na platformě InteliJ, funkční pro testování v NetBeans
+Zakladní šablona pro předmět [Bpog1](https://portal.upce.cz/StagPortletsJSR168/CleanUrl?urlid=prohlizeni-predmet-sylabus&predmetZkrPrac=KST&predmetZkrPred=BPOG1&predmetRok=2025), určený pro Fakultu Elektrotechniky a Informatiky Univerzity Pardubice. Připraveno pro vývoj v Maven na platformě InteliJ, funkční pro testování v NetBeans. 
 
 > [!WARNING]  
-> Na zkouškách v LS 2026 tato šablona není stále schválena, nicméně je příslib revize před zkouškovým obdobím (tzn. zhruba kolem 10 týdne bude nejspíš známé vyjádření).
+> Je potřeba dodržet nastavení této šablony! Pokud na zkoušce odevzdáte program, který sice funguje (v InteliJ), ale nelze jej spustit a ohodnotit v NetBeans, bude považován za nefunkční (známka F). 
+
+Tato šablona je oficiálně povolena [Ing. Petrem Veselým](https://www.upce.cz/user/65) pro zkoušky a zápočty v LS2026.
 
 > [!NOTE]  
 > Před prvním zpuštěním v Netbeans, bude celý program "svítit" červeně. Jakmile bude program spuštěň, již by neměl býti označován kód chybně
