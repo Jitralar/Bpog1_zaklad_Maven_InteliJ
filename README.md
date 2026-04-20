@@ -68,6 +68,7 @@ Pokud tuto šablonu budete zkoušet, prosím rožšiřte tuto tabulku o funční
 | 2024.3      | 12.6        | ✖️          |
 | 2024.3      | 8.2         | ✖️          |
 | 2025.2      | 27          | ✔️          |
+Šablona je funkční i ve VS Code, jak prostředí nastavit lze nalést [v oficiální dokumentaci](https://code.visualstudio.com/docs/java/java-gui#_develop-javafx-applications). Pokud budete vytvářet aplikaci ve VS Code, osobně doporučuji přidat `nbactions.xml`, nicméně pozor: netestoval jsem funkčnost mezi VS Code a NetBeans (možná v budoucnosti bude update)
 
 ## Práce s FXML
 Aktuálně jsem zjistil že InteliJ nemá žádný přirozený způsob pro práci s controllerem o FXML. 
